@@ -30,7 +30,7 @@ Interact with your PDF documents conversationally using Google’s Gemini Pro an
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/chat-with-pdf-gemini.git
+   git clone https://github.com/Vaibhav-2k03/Chat_with_PDFs.git
    cd chat-with-pdf-gemini
    ```
 
